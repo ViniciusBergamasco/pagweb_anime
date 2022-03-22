@@ -1,0 +1,18 @@
+body{
+    background-color: #3399FF;
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+
+}
+h1{
+size: 7px;
+font-style: italic;
+}
+
+h2{
+size: 5px;
+}
+
