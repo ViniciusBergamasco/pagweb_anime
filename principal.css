@@ -1,0 +1,31 @@
+body {
+    color : white;
+}
+
+img {
+    width: 40%;
+}
+
+.noticia {
+    font-size: 3ch;
+}
+
+.materia {
+    margin-bottom: 55px;
+}
+
+#titulo-principal {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 7ch;
+    font-style: italic;    
+}
+
+#titulo-noticias {
+    font-size: 4ch;    
+}
+
+a {
+    color: white;
+    font-size: 2ch;
+}
