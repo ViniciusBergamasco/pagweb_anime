@@ -1,0 +1,21 @@
+body{
+    background-color: #3399FF;
+}
+
+h1,h2,p{
+    text-align: center;
+    color: white;
+
+}
+h1{
+size: 7px;
+font-style: italic;
+}
+
+h2,p{
+size: 5px;
+}
+
+img{
+    width: 20%;
+}
